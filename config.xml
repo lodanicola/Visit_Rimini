@@ -1,0 +1,14 @@
+<widget id="com.visit.rimini" version="0.0.1">
+	<name>Visit Rimini</name>
+	<description>
+		I più famosi monumenti di Rimini.
+	</description>
+	<author email="nicholas1976@hotmail.it" href="http://www.nicolaloda.it">
+		Siti Web Rimini
+	</author>
+	<content src="index.html" />
+	<access origin="*" />
+	<icon src="res/ico72.png" width="72" height="72" />
+	<icon src="res/ico48.png" width="48" height="48" />
+	<icon src="res/ico36.png" width="36" height="36" />
+</widget>
