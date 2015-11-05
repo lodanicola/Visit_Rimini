@@ -3,7 +3,11 @@
     package="com.visit.rimini"
     android:versionCode="1"
     android:versionName="1.0" >
-
+    android {
+    buildTypes {
+        debug {
+            debuggable false
+        }
     <uses-sdk android:minSdkVersion="7" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
